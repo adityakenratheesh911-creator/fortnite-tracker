@@ -1,0 +1,8 @@
+EPIC_IDS = [
+    "AMORIS たかやIGL",
+    "AMORIS兵どもが夢の跡.m"
+]
+
+CHANNEL_ID = 1511480707543732366
+
+PREFIX = "!"
